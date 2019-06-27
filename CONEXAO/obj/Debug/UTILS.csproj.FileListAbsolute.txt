@@ -1,0 +1,12 @@
+E:\PlayMusic\CONEXAO\bin\Debug\CONEXAO.dll
+E:\PlayMusic\CONEXAO\bin\Debug\CONEXAO.pdb
+E:\PlayMusic\CONEXAO\obj\Debug\UTILS.csprojAssemblyReference.cache
+E:\PlayMusic\CONEXAO\obj\Debug\UTILS.csproj.CoreCompileInputs.cache
+E:\PlayMusic\CONEXAO\obj\Debug\CONEXAO.dll
+E:\PlayMusic\CONEXAO\obj\Debug\CONEXAO.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\CONEXAO\bin\Debug\CONEXAO.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\CONEXAO\bin\Debug\CONEXAO.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\CONEXAO\obj\Debug\UTILS.csprojAssemblyReference.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\CONEXAO\obj\Debug\UTILS.csproj.CoreCompileInputs.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\CONEXAO\obj\Debug\CONEXAO.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\CONEXAO\obj\Debug\CONEXAO.pdb

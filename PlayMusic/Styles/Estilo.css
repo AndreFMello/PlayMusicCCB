@@ -1,0 +1,63 @@
+﻿.jumbotron{
+    margin-top: 100px;
+}
+
+.titleHinos{
+    font: bold;
+}
+
+input, button, select, optgroup, textarea {
+	margin: 0;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	border: solid 1px #ced4da;
+	padding: 3px;
+	border-radius: 4px;
+}
+
+body {
+    background-image: url("../src/img/back_instrumento.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    opacity: 0.9;
+}
+
+#dllImportarArquivo {
+    width: 100%;
+    background-color: #fff;
+}
+
+#UploadButton {
+	margin-top: 32px;
+	float: right;
+}
+
+#dllCarregarClasse {
+	margin-bottom: 23px;
+	width: 100%;
+	padding: 8px;
+}
+
+#cancelar {
+	margin-right: 10px;
+}
+
+#sizeImgLogo {
+	width: 240px;
+	height: 140px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+	display: block;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+E:\PlayMusic\SQLServerDAL\bin\Debug\SQLServerDAL.dll
+E:\PlayMusic\SQLServerDAL\bin\Debug\SQLServerDAL.pdb
+E:\PlayMusic\SQLServerDAL\bin\Debug\CONEXAO.dll
+E:\PlayMusic\SQLServerDAL\bin\Debug\Model.dll
+E:\PlayMusic\SQLServerDAL\bin\Debug\CONEXAO.pdb
+E:\PlayMusic\SQLServerDAL\bin\Debug\Model.pdb
+E:\PlayMusic\SQLServerDAL\obj\Debug\SQLDAL.csprojAssemblyReference.cache
+E:\PlayMusic\SQLServerDAL\obj\Debug\SQLDAL.csproj.CoreCompileInputs.cache
+E:\PlayMusic\SQLServerDAL\obj\Debug\SQLDAL.csproj.CopyComplete
+E:\PlayMusic\SQLServerDAL\obj\Debug\SQLServerDAL.dll
+E:\PlayMusic\SQLServerDAL\obj\Debug\SQLServerDAL.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\obj\Debug\SQLDAL.csprojAssemblyReference.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\obj\Debug\SQLDAL.csproj.CoreCompileInputs.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\obj\Debug\SQLServerDAL.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\obj\Debug\SQLServerDAL.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\bin\Debug\SQLServerDAL.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\bin\Debug\SQLServerDAL.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\bin\Debug\CONEXAO.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\bin\Debug\Model.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\bin\Debug\CONEXAO.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\bin\Debug\Model.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\SQLServerDAL\obj\Debug\SQLDAL.csproj.CopyComplete

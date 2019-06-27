@@ -1,0 +1,322 @@
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\PlayMusic.dll.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\PlayMusic.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\PlayMusic.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csc.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csc.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csc.rsp
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csi.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csi.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csi.rsp
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.AppContext.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Console.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.Compression.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Claims.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.ValueTuple.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\vbc.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\vbc.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\vbc.rsp
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csprojAssemblyReference.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csproj.CoreCompileInputs.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csproj.CopyComplete
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\obj\Debug\PlayMusic.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Projeto Avaliação\PlayMusic\PlayMusic\obj\Debug\PlayMusic.pdb
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\PlayMusic.dll.config
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\PlayMusic.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\PlayMusic.pdb
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csc.exe
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csc.exe.config
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csc.rsp
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csi.exe
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csi.exe.config
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\csi.rsp
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.AppContext.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Collections.Immutable.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Console.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.Compression.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.AccessControl.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Claims.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.ValueTuple.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\vbc.exe
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\vbc.exe.config
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\vbc.rsp
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe.config
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csprojResolveAssemblyReference.cache
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csproj.CoreCompileInputs.cache
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\obj\Debug\PlayMusic.dll
+E:\Tópicos Avançados em Sistemas de Informação  Engenharia de Computação I\Projeto Avaliação\PlayMusic\PlayMusic\obj\Debug\PlayMusic.pdb
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\PlayMusic.dll.config
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\PlayMusic.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\PlayMusic.pdb
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\csc.exe
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\csc.exe.config
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\csc.rsp
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\csi.exe
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\csi.exe.config
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\csi.rsp
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.AppContext.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Collections.Immutable.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Console.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.IO.Compression.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Reflection.Metadata.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Security.AccessControl.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Security.Claims.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.ValueTuple.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\vbc.exe
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\vbc.exe.config
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\vbc.rsp
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe.config
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ProjetoDotNet\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csprojResolveAssemblyReference.cache
+C:\ProjetoDotNet\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csproj.CoreCompileInputs.cache
+C:\ProjetoDotNet\PlayMusic\PlayMusic\obj\Debug\PlayMusic.dll
+C:\ProjetoDotNet\PlayMusic\PlayMusic\obj\Debug\PlayMusic.pdb
+E:\PlayMusic\PlayMusic\bin\PlayMusic.dll.config
+E:\PlayMusic\PlayMusic\bin\PlayMusic.dll
+E:\PlayMusic\PlayMusic\bin\PlayMusic.pdb
+E:\PlayMusic\PlayMusic\bin\roslyn\csc.exe
+E:\PlayMusic\PlayMusic\bin\roslyn\csc.exe.config
+E:\PlayMusic\PlayMusic\bin\roslyn\csc.rsp
+E:\PlayMusic\PlayMusic\bin\roslyn\csi.exe
+E:\PlayMusic\PlayMusic\bin\roslyn\csi.exe.config
+E:\PlayMusic\PlayMusic\bin\roslyn\csi.rsp
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PlayMusic\PlayMusic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PlayMusic\PlayMusic\bin\roslyn\System.AppContext.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Collections.Immutable.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Console.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.IO.Compression.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Reflection.Metadata.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Security.AccessControl.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Security.Claims.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.ValueTuple.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PlayMusic\PlayMusic\bin\roslyn\vbc.exe
+E:\PlayMusic\PlayMusic\bin\roslyn\vbc.exe.config
+E:\PlayMusic\PlayMusic\bin\roslyn\vbc.rsp
+E:\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe
+E:\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe.config
+E:\PlayMusic\PlayMusic\bin\BLL.dll
+E:\PlayMusic\PlayMusic\bin\FormCollectionExtend.MVC.dll
+E:\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PlayMusic\PlayMusic\bin\Microsoft.Web.Infrastructure.dll
+E:\PlayMusic\PlayMusic\bin\Model.dll
+E:\PlayMusic\PlayMusic\bin\System.Web.Helpers.dll
+E:\PlayMusic\PlayMusic\bin\System.Web.Mvc.dll
+E:\PlayMusic\PlayMusic\bin\System.Web.Razor.dll
+E:\PlayMusic\PlayMusic\bin\System.Web.WebPages.Deployment.dll
+E:\PlayMusic\PlayMusic\bin\System.Web.WebPages.dll
+E:\PlayMusic\PlayMusic\bin\System.Web.WebPages.Razor.dll
+E:\PlayMusic\PlayMusic\bin\SQLServerDAL.dll
+E:\PlayMusic\PlayMusic\bin\CONEXAO.dll
+E:\PlayMusic\PlayMusic\bin\BLL.pdb
+E:\PlayMusic\PlayMusic\bin\Model.pdb
+E:\PlayMusic\PlayMusic\bin\System.Web.Helpers.xml
+E:\PlayMusic\PlayMusic\bin\System.Web.Mvc.xml
+E:\PlayMusic\PlayMusic\bin\System.Web.Razor.xml
+E:\PlayMusic\PlayMusic\bin\System.Web.WebPages.xml
+E:\PlayMusic\PlayMusic\bin\System.Web.WebPages.Deployment.xml
+E:\PlayMusic\PlayMusic\bin\System.Web.WebPages.Razor.xml
+E:\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PlayMusic\PlayMusic\bin\SQLServerDAL.pdb
+E:\PlayMusic\PlayMusic\bin\CONEXAO.pdb
+E:\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csprojAssemblyReference.cache
+E:\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csproj.CoreCompileInputs.cache
+E:\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csproj.CopyComplete
+E:\PlayMusic\PlayMusic\obj\Debug\PlayMusic.dll
+E:\PlayMusic\PlayMusic\obj\Debug\PlayMusic.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\PlayMusic.dll.config
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\PlayMusic.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\PlayMusic.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\csc.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\csc.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\csc.rsp
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\csi.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\csi.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\csi.rsp
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.AppContext.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Console.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.IO.Compression.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Security.Claims.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.ValueTuple.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\vbc.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\vbc.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\vbc.rsp
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\BLL.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\FormCollectionExtend.MVC.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\Model.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.Helpers.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.Mvc.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.Razor.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.WebPages.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.WebPages.Razor.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\SQLServerDAL.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\CONEXAO.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\BLL.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\Model.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.Helpers.xml
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.Mvc.xml
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.Razor.xml
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.WebPages.xml
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\System.Web.WebPages.Razor.xml
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\SQLServerDAL.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\bin\CONEXAO.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csprojAssemblyReference.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csproj.CoreCompileInputs.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\obj\Debug\PlayMusic.csproj.CopyComplete
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\obj\Debug\PlayMusic.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\PlayMusic\obj\Debug\PlayMusic.pdb

@@ -1,0 +1,6 @@
+E:\PlayMusic\SQLServerDAL\bin\Debug\SQLServerDAL.dll
+E:\PlayMusic\SQLServerDAL\bin\Debug\SQLServerDAL.pdb
+E:\PlayMusic\SQLServerDAL\obj\Debug\SQLServerDAL.csprojAssemblyReference.cache
+E:\PlayMusic\SQLServerDAL\obj\Debug\SQLServerDAL.csproj.CoreCompileInputs.cache
+E:\PlayMusic\SQLServerDAL\obj\Debug\SQLServerDAL.dll
+E:\PlayMusic\SQLServerDAL\obj\Debug\SQLServerDAL.pdb

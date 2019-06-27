@@ -1,0 +1,26 @@
+E:\PlayMusic\BLL\bin\Debug\BLL.dll
+E:\PlayMusic\BLL\bin\Debug\BLL.pdb
+E:\PlayMusic\BLL\bin\Debug\Model.dll
+E:\PlayMusic\BLL\bin\Debug\SQLServerDAL.dll
+E:\PlayMusic\BLL\bin\Debug\CONEXAO.dll
+E:\PlayMusic\BLL\bin\Debug\Model.pdb
+E:\PlayMusic\BLL\bin\Debug\SQLServerDAL.pdb
+E:\PlayMusic\BLL\bin\Debug\CONEXAO.pdb
+E:\PlayMusic\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\PlayMusic\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\PlayMusic\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\PlayMusic\BLL\obj\Debug\BLL.dll
+E:\PlayMusic\BLL\obj\Debug\BLL.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\obj\Debug\BLL.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\obj\Debug\BLL.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\bin\Debug\BLL.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\bin\Debug\BLL.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\bin\Debug\Model.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\bin\Debug\SQLServerDAL.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\bin\Debug\CONEXAO.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\bin\Debug\Model.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\bin\Debug\SQLServerDAL.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\bin\Debug\CONEXAO.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\PlayMusic\BLL\obj\Debug\BLL.csproj.CopyComplete
